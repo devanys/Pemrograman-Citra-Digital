@@ -12,3 +12,5 @@
 <img width="2175" height="1481" alt="bab10_morfologi" src="https://github.com/user-attachments/assets/cd613036-0b87-42e2-86ec-a14e7ba41cdf" />
 <img width="2213" height="1473" alt="bab11_ekstraksi_fitur" src="https://github.com/user-attachments/assets/2f575adb-bbf8-4eca-8b76-7174a8ff927f" />
 <img width="2083" height="1767" alt="bab12_ml" src="https://github.com/user-attachments/assets/b8744e50-9b06-40f1-9141-176234fe9bd7" />
+<img width="2083" height="1473" alt="bab13_deep_learning" src="https://github.com/user-attachments/assets/9cdb2d1b-f641-435c-9c50-7690d89dc01f" />
+<img width="2301" height="1475" alt="bab14_generative_ai" src="https://github.com/user-attachments/assets/2e3c7f89-86de-46ad-a6a4-b69fd92c7837" />
